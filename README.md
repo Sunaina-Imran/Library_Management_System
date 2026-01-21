@@ -41,7 +41,7 @@ Book must exist before update or delete
 
 <img width="1888" height="922" alt="library" src="https://github.com/user-attachments/assets/09d11793-eabf-417d-9910-2dd43626116c" />
 
-💡 Future Enhancements (Optional)
+💡 Future Enhancements 
 Replace text file with SQLite / PostgreSQL
 Add search by title or author
 Export books to CSV / Excel
