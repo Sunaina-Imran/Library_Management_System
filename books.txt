@@ -1,0 +1,6 @@
+5739,Learning Python,Sunaina,2004,Programming
+2058,Python for Data Analysis,Wes McKinney,2017,Data Science
+6307,Effective Python,Brett Slatkin,2019,Software Development
+9288,Automate the Boring Stuff with Python,Al Sweigart,2013,Automation
+8822,AI python,Sunaina,2025,Data Science
+456,RDBMS,Shazia,2002,a
